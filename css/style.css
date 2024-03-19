@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Rubik+Mono+One&display=swap');
+
+.circle {
+    background-color: black;
+    border-radius: 50%;
+    border: 10px solid green;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 30px 0px 30px 75px;
+    text-align: none !important;
+}
+
+.circle img {
+    position: absolute;
+    bottom: -40%;
+    width: 100%;
+}
+
+body{
+    display: flex;
+    background-color: none;
+    justify-content: center;
+    align-items: center;
+    font-family: "Red Hat Display";
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.esquerda{
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: #f0f0f0;
+    margin:0;
+    display: flex;
+    padding: 5%;
+}
+
+
+.destaque{
+    border-bottom: 1px solid #f0f0f0;
+    width: 390px;
+}
+
+.esquerda h3{
+    color: green;
+}
+
+.esquerda h2{
+    color: green;
+}
+
+.esquerda h1{
+    color:#f0f0f0;
+    font-size: 35px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.direita{
+    display: flex;
+    flex: 1.75;
+    /* justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    background-color: #f0f0f0;
+    margin:0;
+    padding: 5%;
+}
+
+.direita h2{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    width: 250px;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    margin-bottom: -15px;
+}
+
+.icon img{
+    width: 25px;
+    height: 25px;
+}
+
+.rotate{
+    transform: rotate(-90deg);
+}
+
+.linkedin{
+    background-color: green;
+    align-items: center;
+}
+
+.icon p{
+    align-items: center;
+    padding-left: 5px;
+}
+
+.icon a{
+    color: white;
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
