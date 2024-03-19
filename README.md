@@ -231,5 +231,5 @@ No site foi utilizado:
     <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/icon.png" width="50px" />
 
 ## 📋 Print do site
-    <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/print1.png" width="500px" />
-    <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/print2.png" width="500px" />
+   <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/print1.png" width="500px" />
+   <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/print2.png" width="500px" />
