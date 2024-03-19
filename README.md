@@ -2,7 +2,7 @@
 
 O projeto passado pelo professor Marcio, na matéria de Desenvolvimento Web I no curso de DSM - FATEC Franca - 1ºsemestre. Foi pensando em termos nosso currículo em uma versão web page, nos forçando a por em prática os conhecimentos adquiridos em HTML e CSS.
 
-## 💻 **[Link do site]()**
+## 💻 **[Link do site](https://joaoluquetti.github.io/cv-versionado/)**
 
 ## 🚀 Código-fonte e imagens utilizadas
 
@@ -220,7 +220,7 @@ No site foi utilizado:
 ```
   - Fotos:
     - Minha foto:
-     
+     <img href="https://github.com/joaoluquetti/cv-versionado/blob/main/img/perfil.PNG">
     - Ícones:
     
 
