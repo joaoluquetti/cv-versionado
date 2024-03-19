@@ -220,6 +220,7 @@ No site foi utilizado:
 ```
   - Fotos:
     - Minha foto:
+
       <img src="https://raw.githubusercontent.com/joaoluquetti/cv-versionado/main/img/perfil.PNG" width="250px" />
 
     - Ícones:
